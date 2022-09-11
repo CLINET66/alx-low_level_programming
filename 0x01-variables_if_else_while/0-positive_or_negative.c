@@ -8,6 +8,8 @@
  *
  * main - Prints if number is positive, zero or negative
  *
+ * Description:a code that prints a random number if number is positive, zero or negative.
+ *
  * Return: Always (Success)
  *
  */
