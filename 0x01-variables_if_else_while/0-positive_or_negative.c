@@ -6,9 +6,9 @@
 
 /**
  *
- * main - Prints if number is positive, zero or negative
+ * main - entry Point
  *
- * Description:a code that prints a random number if number is positive, zero or negative.
+ * Description: Prints if number is positive, zero or nrgative
  *
  * Return: Always (Success)
  *
