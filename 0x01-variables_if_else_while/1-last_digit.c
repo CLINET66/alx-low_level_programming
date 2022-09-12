@@ -9,7 +9,7 @@
  * Description: printing the las t digit of the variable
  *
  * Return: 0
- * */
+ */
 
 int main(void)
 {
