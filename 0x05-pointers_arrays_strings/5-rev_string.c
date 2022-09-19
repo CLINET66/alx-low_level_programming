@@ -21,4 +21,3 @@ s[index] = s[len - index - 1];
 s[len - index - 1] = tmp;
 }
 }
-}
