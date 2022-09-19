@@ -8,9 +8,8 @@
  * puts2 - prints every other character
  * @str: string
  *
- * Return: 0
+ * Return: nothing
  */
-
 
 
 void puts2(char *str)
