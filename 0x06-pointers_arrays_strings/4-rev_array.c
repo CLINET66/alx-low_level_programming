@@ -5,7 +5,6 @@
 /**
  * reverse_array -> reversing an array
  * @a: array a
- *
  * @n: an element of an array
  */
 
